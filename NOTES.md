@@ -13,5 +13,7 @@ npm install web-vitals
 ## Babel Preset React App
 npm install --save-dev @babel/plugin-transform-private-property-in-object
 
+see: https://www.npmjs.com/package/@babel/plugin-proposal-private-property-in-object
+
 ## Local Storage
 Chrome, Developer Tools, Application, Storage, Local storage
